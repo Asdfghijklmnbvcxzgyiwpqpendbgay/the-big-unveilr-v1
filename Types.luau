@@ -31,4 +31,5 @@ return {
 	["Instance"] = {
 		"game", "workspace", "Game", "Workspace", "game.Workspace", "Game.Workspace"
 	}
+
 }
